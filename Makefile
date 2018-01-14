@@ -13,7 +13,7 @@
 ######################################
 # target
 ######################################
-TARGET = stm32-uart
+TARGET = main
 FIRMWARE = $(HOME)/STM32Cube/Repository/STM32Cube_FW_F4_V1.18.0
 
 
