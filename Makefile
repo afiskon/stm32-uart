@@ -204,6 +204,9 @@ flash: all
 erase:
 	st-flash --reset erase
 
+uart:
+	screen /dev/ttyACM0
+
 #######################################
 # dependencies
 #######################################
